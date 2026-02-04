@@ -112,3 +112,103 @@ Self-disruption is **faster and more complete** than external disruption
 ## Core Insight 💡
 **General Agents don't compete with Custom Agents.**
 **General Agents BUILD Custom Agents.**
+
+# The Shift: From Coder to Orchestrator - Key Points
+
+## Role Comparison
+
+| Aspect | **THE TYPIST (Old Way)** | **THE ORCHESTRATOR (New Way)** |
+|--------|--------------------------|--------------------------------|
+| **INPUT** | Writes Syntax | Directs Intent |
+| **OUTPUT** | Lines of Code | Capabilities |
+| **FOCUS** | How to Implement | What to Build & Why |
+
+## The OODA Loop (Orchestrator's Workflow)
+
+**OBSERVE** (Context) → **ORIENT** (Reasoning) → **DECIDE** (Plan) → **ACT** (Execution) → *[Loop continues]*
+
+## Key Value Shift
+- **From**: Lines-of-code-per-day
+- **To**: Amount of intelligence you can direct effectively
+- **Impact**: A single Orchestrator can manage the output of **10+ Digital FTEs**
+
+# The Technical Stack: The Five Powers & MCP - Key Points
+
+## The Five Powers (Agent Capabilities)
+
+1. **See** (Vision) 👁️
+2. **Hear** (Audio) 🔊
+3. **Act** (Tool Use) 🦾
+4. **Remember** (Context) 💾
+5. **Reason** (Logic) 🤔
+
+**The Brain** (Frontier Models: Claude, GPT-5) 🧠
+
+## Model Context Protocol (MCP)
+
+**Definition**: The USB for AI
+- Solves the M×N integration problem
+- Connects "Eyes" and "Hands" without vendor lock-in
+- Central hub: **Model Context Protocol (MCP)**
+
+## Critical Insight
+**Without MCP**: An agent can plan but cannot act
+**With MCP**: The agent moves from a chatbot to a protocol-driven autonomous worker
+
+# The Output: What is a Digital FTE?
+
+## Definition
+**Digital Full-Time Equivalent (FTE)** = An autonomous AI agent engineered to own a specific organizational function with the reliability of a human team member
+
+## Four Core Characteristics
+
+1. **Autonomous** 
+   - Runs 24/7
+
+2. **Persistent** 
+   - Maintains State
+
+3. **Specialized** 
+   - Deep Skills
+
+4. **Connected** 
+   - MCP Integrated
+
+## The Transformation
+
+### BEFORE
+- **Session-Based Tool**
+- Temporary, on-demand use
+
+### AFTER
+- **Digital FTE Service (Always-on)**
+- Continuous, persistent operation
+
+
+# The Unit Economics: Tools vs. Products - Key Points
+
+## Comparison
+
+### **Human FTE (Sarah)** 
+- **Universe**: Univers
+- **Role**: Analyst
+- **Cost**: $10,000/month
+- **Capacity**: 40 hours/week
+- **Cost per Ticket**: $150
+- **Outcome**: Sarah uses AI to work faster → **Displaced by the tool**
+
+### **Digital FTE** 
+- **Universe**: Univers
+- **Role**: Autonomous Agent
+- **Cost**: $500/month
+- **Capacity**: 168 hours/week
+- **Cost per Ticket**: $3
+- **Outcome**: Marcus encodes expertise into Digital FTE → **Owns the asset**
+
+## Bottom Line Economics
+- **Regular AI**= Knows what everyone knows
+- **Your Digital FTE** = Knows what only experts in YOUR field know
+- **Your advantage** = That special 10% expertise
+
+**This concept explains that in AI, competitive advantage does not come from generic knowledge, but from specialized domain expertise.**
+
