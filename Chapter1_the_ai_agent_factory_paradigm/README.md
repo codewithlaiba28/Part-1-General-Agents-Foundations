@@ -1,4 +1,4 @@
-# Chapter 1: The AI Agent Factory Paradigm — Key Points
+# Chapter 1: The AI Agent Factory Paradigm — 
 
 * This chapter introduces mental models for AI-native development.
 
@@ -20,7 +20,7 @@
 
 # slides
 
-# The Agent Factory Paradigm - Key Points
+# The Agent Factory Paradigm - 
 
 ## Main Idea
 **From Coder to Orchestrator: Building the Digital Workforce**
@@ -39,7 +39,7 @@
 - **Continuous value delivery**
 - **Developers become orchestrators**, not just coders
 
-# The 2025 Inflection Point - Key Points
+# The 2025 Inflection Point - 
 
 ## Convergent Evidence (4 Key Indicators)
 
@@ -64,7 +64,7 @@
 ## Bottom Line
 When academia, developer surveys, venture capital, and enterprise M&A all point in the same direction → **convergent validation, not marketing hype**
 
-# Restructuring the $3 Trillion Developer Economy - Key Points
+# Restructuring the $3 Trillion Developer Economy - 
 
 ## The Math
 - **30 Million** Global Developers × **$100,000** Avg Economic Value = **$3 Trillion Economy**
@@ -90,7 +90,7 @@ When academia, developer surveys, venture capital, and enterprise M&A all point 
 ## Key Insight
 Self-disruption is **faster and more complete** than external disruption
 
-# The Agent Maturity Model - Key Points
+# The Agent Maturity Model - 
 
 ## Two Stages of Evolution
 
@@ -113,7 +113,7 @@ Self-disruption is **faster and more complete** than external disruption
 **General Agents don't compete with Custom Agents.**
 **General Agents BUILD Custom Agents.**
 
-# The Shift: From Coder to Orchestrator - Key Points
+# The Shift: From Coder to Orchestrator - 
 
 ## Role Comparison
 
@@ -132,7 +132,7 @@ Self-disruption is **faster and more complete** than external disruption
 - **To**: Amount of intelligence you can direct effectively
 - **Impact**: A single Orchestrator can manage the output of **10+ Digital FTEs**
 
-# The Technical Stack: The Five Powers & MCP - Key Points
+# The Technical Stack: The Five Powers & MCP - 
 
 ## The Five Powers (Agent Capabilities)
 
@@ -185,7 +185,7 @@ Self-disruption is **faster and more complete** than external disruption
 - Continuous, persistent operation
 
 
-# The Unit Economics: Tools vs. Products - Key Points
+# The Unit Economics: Tools vs. Products - 
 
 ## Comparison
 
@@ -212,3 +212,83 @@ Self-disruption is **faster and more complete** than external disruption
 
 **This concept explains that in AI, competitive advantage does not come from generic knowledge, but from specialized domain expertise.**
 
+# The Final Choice: Two Paths to Production - 
+
+## Two Ways to Build AI Agents
+
+### **Path A: Vibe-Coding** 
+- AI writes messy, unorganized code
+- Like asking AI "just make it work"
+- Chaotic, hard to maintain
+- Breaks easily, unreliable
+
+### **Path B: Agent Framework** 
+- AI follows proper structure and rules
+- Organized, professional approach
+- Spec-compliant (follows standards)
+- Creates reliable Digital FTE
+
+## The Formula
+**Specifications × Agents = Exponential Capability**
+
+## Key Warning 
+**AI is an amplifier**
+- Makes **good habits** stronger (discipline)
+- Makes **bad habits** worse (chaos)
+- Choose Path B to sell to enterprises
+
+# The $400 Billion Enterprise Opportunity - 
+
+## The Market Size
+- **Total Enterprise AI Spend by 2030**: $100B → $400B
+- **Current Reality**: 80% of C-suite running pilots (testing phase)
+
+## The Gen AI Paradox 🤔
+- **75% of organizations use Gen AI**
+- **BUT**: Similar share report **NO material impact on earnings**
+- **Problem**: They're stuck in "Pilot Purgatory"
+
+## Why Enterprises Are Stuck
+- Buying **tools**, not **outcomes**
+- Gap between adoption and real results
+- Need **Digital FTEs** to bridge this gap
+
+## The Big Opportunity 
+
+**Trend Alert Box:**
+**Adoption is high. Value is low.**
+**This is the gap you fill.**
+
+Companies are spending billions on AI but not seeing profits. They need someone to turn AI tools into actual working Digital FTEs that deliver results. **That's your $400B opportunity!**
+
+# The Buying Center Shift: From IT to Business - 
+
+## Old vs New Buyer
+
+**Previous Buyer**: CIO (IT) - Technical decision maker
+**New Buyers**: Business leaders (CFO, COO, CEO)
+
+## Three Business Buyer Types
+
+### 1. **CFO (Financial Focus)** 💰
+- **Cares About**: ROI, Headcount
+- **Metrics**: ROI, Headcount reduction
+- **Pitch**: "Cost Reduction"
+
+### 2. **COO (Operations Focus)** ⚙️
+- **Cares About**: Efficiency, Share, 24/7 Uptime
+- **Metrics**: Efficiency, 24/7 Uptime, Error Rates
+- **Pitch**: "Operational Velocity"
+
+### 3. **CEO (Strategic Focus)** 🎯
+- **Cares About**: Market Share, Speed
+- **Metrics**: Market Share, Speed
+- **Pitch**: "Strategic Value"
+
+## Critical Sales Strategy
+
+❌ **Don't sell "AI" to the CIO**
+✅ **Sell "Margin" to the CFO**
+✅ **Sell "Velocity" to the COO**
+
+Stop talking about technology. Start talking about business results: saved money, faster operations, competitive advantage.
