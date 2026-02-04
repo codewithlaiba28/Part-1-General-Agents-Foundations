@@ -89,3 +89,26 @@ When academia, developer surveys, venture capital, and enterprise M&A all point 
 
 ## Key Insight
 Self-disruption is **faster and more complete** than external disruption
+
+# The Agent Maturity Model - Key Points
+
+## Two Stages of Evolution
+
+### **The Incubator (General Agents)**
+- **Structure**: Chaotic, exploratory network (circle)
+- **Tools**: Claude Code, Gemini CLI
+- **Function**: Exploration & Discovery
+- **Role**: Director
+
+### **The Specialist (Custom Agents)**
+- **Structure**: Organized, structured framework (diamond)
+- **Tools**: OpenAI Agents SDK, Google ADK
+- **Function**: Execution & Scale
+- **Role**: Builder
+
+## The Process
+**Crystallization** → Transformation from general to custom agents
+
+## Core Insight 💡
+**General Agents don't compete with Custom Agents.**
+**General Agents BUILD Custom Agents.**
